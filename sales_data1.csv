@@ -1,0 +1,19 @@
+OrderDate,Region,Manager,SalesMan,Item,Units,Unit_price,Sale_amt
+1-6-18,East,Martha,Alexander,Television,95,1198,113810
+1-23-18,Central,Hermann,Shelli,Home Theater,50,500,25000
+2-9-18,Central,Hermann,Luis,Television,36,1198,43128
+2-26-18,Central,Timothy,David,Cell Phone,27,225,6075
+3-15-18,West,Timothy,Stephen,Television,56,1198,67088
+4-1-18,East,Martha,Alexander,Home Theater,60,500,30000
+4-18-18,Central,Martha,Steven,Television,75,1198,89850
+5-5-18,Central,Hermann,Luis,Television,90,1198,107820
+5-22-18,West,Douglas,Michael,Television,32,1198,38336
+6-8-18,East,Martha,Alexander,Home Theater,60,500,30000
+6-25-18,Central,Hermann,Sigal,Television,90,1198,107820
+7-12-18,East,Martha,Diana,Home Theater,29,500,14500
+7-29-18,East,Douglas,Karen,Home Theater,81,500,40500
+8-15-18,East,Martha,Alexander,Television,35,1198,41930
+9-1-18,Central,Douglas,John,Desk,2,125,250
+9-18-18,East,Martha,Alexander,Video Games,16,58.5,936
+10-5-18,Central,Hermann,Sigal,Home Theater,28,500,14000
+10-22-18,East,Martha,Alexander,Cell Phone,64,225,14400
