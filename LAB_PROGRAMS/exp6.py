@@ -1,7 +1,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
-df = pd.read_csv("alphabet_stock_data.csv")
+df = pd.read_csv("data/alphabet_stock_data.csv")
 
 print("ALPHABET STOCK DATA\n")
 print(df)

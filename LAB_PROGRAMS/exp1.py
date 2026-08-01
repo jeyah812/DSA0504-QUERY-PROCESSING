@@ -1,6 +1,6 @@
 import pandas as pd
 
-df = pd.read_csv("departments.csv")
+df = pd.read_csv("data/departments.csv")
 
 print("DEPARTMENTS TABLE\n")
 print(df)

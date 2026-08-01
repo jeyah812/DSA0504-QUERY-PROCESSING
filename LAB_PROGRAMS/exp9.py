@@ -1,6 +1,6 @@
 import pandas as pd
 
-df = pd.read_csv("sales_data1.csv")
+df = pd.read_csv("data/sales_data1.csv")
 
 pivot = pd.pivot_table(
     df,

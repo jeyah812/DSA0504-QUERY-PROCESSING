@@ -1,6 +1,6 @@
 import pandas as pd
 
-df = pd.read_csv("job_history.csv")
+df = pd.read_csv("data/job_history.csv")
 
 print("JOB HISTORY TABLE")
 print(df)
